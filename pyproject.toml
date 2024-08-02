@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "blackbricks"
-version = "2.2.0"
+version = "2.3.0"
 description = "Black for Databricks notebooks"
 authors = ["Bendik Samseth <bendik.samseth@inspera.no>"]
 license = "MIT"
